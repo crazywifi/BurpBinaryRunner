@@ -6,8 +6,6 @@ Run Terminal Binary in Burp
 </br>
 </br>
 
-![Alt Text](https://giphy.com/embed/GpPys1zCsFuh2KdF5g)
 
-
-<img src="https://github.com/crazywifi/BurpBinaryRunner/blob/main/BurpBinaryRunner.gif" alt="Databay showcase gif" title="BurpBinaryRunner" width="500"/>
+<img src="https://github.com/crazywifi/BurpBinaryRunner/blob/main/BurpBinaryRunner.gif" alt="Databay showcase gif" title="BurpBinaryRunner"/>
 
