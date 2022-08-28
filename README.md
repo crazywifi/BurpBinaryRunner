@@ -1,5 +1,6 @@
 # BurpBinaryRunner
-Run Terminal Binary in Burp
+## Now you can run terminal tools in Burp
+### Example: sslscan.exe, ffuf, nmap, etc
 
 </br>
 </br>
