@@ -2,7 +2,10 @@
 ## Now you can run terminal tools in Burp
 ### Example: sslscan.exe, ffuf, nmap, etc
 
-</br>
+### Uses:
+This extension can be use for SSL scanning, Nmap, FFUF, etc directly from the Burp.
+
+
 </br>
 </br>
 </br>
